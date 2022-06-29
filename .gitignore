@@ -1,0 +1,10 @@
+first-project
+    .git/ (hidden)
+    .gitignore (hidden)
+    application.log
+    index.html
+    index.js
+
+# ignore log files (this is a comment)
+# the '*' matches any text, then '.log', effectively ignoring all log files
+*.log
